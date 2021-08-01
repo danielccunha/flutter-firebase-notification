@@ -1,7 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_firebase_notification">
+    package="com.flutter.firebase.notification">
+   <uses-permission android:name="android.permission.INTERNET"/>
+
    <application
-        android:label="flutter_firebase_notification"
+        android:label="Firebase Notification"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

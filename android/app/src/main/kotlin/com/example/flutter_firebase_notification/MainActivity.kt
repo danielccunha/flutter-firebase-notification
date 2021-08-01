@@ -1,4 +1,4 @@
-package com.example.flutter_firebase_notification
+package com.flutter.firebase.notification
 
 import io.flutter.embedding.android.FlutterActivity
 
